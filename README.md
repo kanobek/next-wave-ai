@@ -10,7 +10,7 @@ Explore the vast ocean of AI by diving into the categories below. Each section i
 
 | 🌟 Category | 📁 Link |
 | --- | --- |
-| 🧠 Natural Language Processing (NLP) | Go to NLP Tools |
+| 🧠 Natural Language Processing (NLP) | [Go to NLP Tools](https://github.com/yourusername/nlp-tools) |
 | 👁️ Computer Vision | Go to Vision Tools |
 | 🎨 Generative AI | Go to Generative AI |
 | 🔢 Machine Learning & Deep Learning | Go to ML/DL |
