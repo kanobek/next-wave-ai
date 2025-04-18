@@ -53,6 +53,9 @@ We welcome pull requests, suggestions, and collaborations! 🌟
 
 ## 📬 Contact
 
-Got questions or ideas? Open an issue or reach out to [KanoBek] on GitHub!
+Got questions or ideas? Open an issue or reach out to KanoBek on GitHub!
 
-Made with ❤️ by [Kanobek] | Follow the wave 🌊
+🌐 Follow Me on X
+Stay updated on the latest AI trends, tools, and updates from Next Wave AI! Follow me on X for real-time insights and community discussions:👉 @bek_kano23878
+
+Made with ❤️ by Kanobek  | Follow the wave 🌊
